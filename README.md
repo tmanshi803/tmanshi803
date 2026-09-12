@@ -27,4 +27,4 @@ First-year B.Tech undergraduate in Electrical, Electronics, and Communications E
 
 ### Connect with Me
 * Email: tmanshi803@gmail.com
-* LinkedIn: [Manshi Tiwari](https://www.linkedin.com/in/manshi-tiwari-undefined-5b22b8436/)
+* LinkedIn: [Manshi Tiwari](www.linkedin.com/in/manshi-tiwari-5b22b8436)
