@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Manshi Tiwari
 
-First-year B.Tech undergraduate in Electrical, Electronics, and Communications Engineering at Greater Noida Institute of Technology (GNIOT)[cite: 1]. Passionate about exploring technology, hardware engineering, and software development.
+First-year B.Tech undergraduate in Electrical, Electronics, and Communications Engineering at Greater Noida Institute of Technology (GNIOT). Passionate about exploring technology, hardware engineering, and software development.
 
 ---
 
@@ -26,5 +26,5 @@ First-year B.Tech undergraduate in Electrical, Electronics, and Communications E
 ---
 
 ### 📫 Connect with Me
-* Email: tmanshi803@gmail.com[cite: 1]
-* LinkedIn: [Manshi Tiwari](https://www.linkedin.com/in/manshi-tiwari-undefined-5b22b8436/)[cite: 1]
+* Email: tmanshi803@gmail.com
+* LinkedIn: [Manshi Tiwari](https://www.linkedin.com/in/manshi-tiwari-undefined-5b22b8436/)
